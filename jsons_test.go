@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/calmh/jsons"
+	"github.com/kastelo/jsons"
 )
 
 func TestReader(t *testing.T) {
